@@ -7,3 +7,5 @@
 * **creenv-audio** - import the audio classes from audio-visualization starter to @creenv
 * **creenv-stats** - add a method to define the position 
 * **creenv** - add a correct README to the majority of the @creenv modules 
+* **presentation** - set up a website to present @creenv and documente its functionnalities 
+* **create-creenv** - add parameters such as --music to add modules ?
