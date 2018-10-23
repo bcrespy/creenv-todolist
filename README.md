@@ -11,3 +11,4 @@
 * **create-creenv** - add parameters such as --music to add modules ?
 * **create-creenv** - add paremeter --no-coments which removes the coments from the /src folder
 * **creenv-capture** - add a "screen" button
+* **create-creenv** - stock a copy repo each time it gets updated, in case of offline mode
