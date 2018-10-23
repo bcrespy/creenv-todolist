@@ -12,4 +12,4 @@
 * **create-creenv** - add paremeter --no-coments which removes the coments from the /src folder
 * **creenv-capture** - add a "screen" button
 * **create-creenv** - stock a copy repo each time it gets updated, in case of offline mode
-* **creenv-file** - load a file
+* ~~**creenv-file** - load a file~~ *23/10/2018*
