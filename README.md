@@ -5,7 +5,7 @@
 * ~~**creenv-hud** - a class to handle all the UI elements available within creenv~~ *21/10/2018*
 * ~~**creenv-capture** - a class/function of canvas to export the view as an image or a video~~ *24/10/2018* 
 * **creenv-audio** - import the audio classes from audio-visualization starter to @creenv
-* **creenv-stats** - add a method to define the position 
+* ~~**creenv-stats** - add a method to define the position~~ *25/10/2018* 
 * **creenv** - add a correct README to the majority of the @creenv modules 
 * **presentation** - set up a website to present @creenv and documente its functionnalities 
 * **create-creenv** - add parameters such as --music to add modules ?
