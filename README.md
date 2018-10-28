@@ -8,8 +8,8 @@
 * ~~**creenv-stats** - add a method to define the position~~ *25/10/2018* 
 * **creenv** - add a correct README to the majority of the @creenv modules 
 * **presentation** - set up a website to present @creenv and documente its functionnalities 
-* **create-creenv** - add parameters such as --music to add modules ?
-* **create-creenv** - add paremeter --no-comments which removes the coments from the /src folder
+* ~~**create-creenv** - add parameters such as --music to add modules ?~~ *aborted*
+* ~~**create-creenv** - add paremeter --no-comments which removes the coments from the /src folder~~ *28/10/2018*
 * ~~**creenv-capture** - add a "screen" button~~ *25/10/2018*
 * **create-creenv** - stock a copy repo each time it gets updated, in case of offline mode
 * ~~**creenv-file** - load a file~~ *23/10/2018*
