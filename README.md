@@ -16,3 +16,4 @@
 * **interface** - a generic class that describes how an interface should be implemented (**useless ?**)
 * **music-input-interface** - an interface to load music from different inputs, customizable (use react), resolves when loading is done
 * **boilerplate for music** - create a boiletplate that showcases creenv sound analysis tools (embed music visualization starter helper?)
+* **boilerplate for music, light** - a more lightweight, with less config and explanations
