@@ -18,4 +18,7 @@
 * **boilerplate for music** - create a boiletplate that showcases creenv sound analysis tools (embed music visualization starter helper?)
 * **boilerplate for music, light** - a more lightweight, with less config and explanations
 * **capture + audio** - find a way for @creenv/catpure and @creenv/audio to communicate
-* **creenv-capture** - sequence jpeg
+* **creenv-capture** - sequence jpeg 
+* **creenv-capture** - add sound to capture
+* **creenv-audio** - peak detection bug on capture mode
+* **creenv-audio** - add offset to start playing
