@@ -13,13 +13,13 @@
 * ~~**creenv-capture** - add a "screen" button~~ *25/10/2018*
 * **create-creenv** - stock a copy repo each time it gets updated, in case of offline mode
 * ~~**creenv-file** - load a file~~ *23/10/2018*
-* **interface** - a generic class that describes how an interface should be implemented (**useless ?**)
+* ~~**interface** - a generic class that describes how an interface should be implemented (**useless ?**)~~ *thought to be useless*
 * **music-input-interface** - an interface to load music from different inputs, customizable (use react), resolves when loading is done
 * **boilerplate for music** - create a boiletplate that showcases creenv sound analysis tools (embed music visualization starter helper?)
 * **boilerplate for music, light** - a more lightweight, with less config and explanations
 * ~~**capture + audio** - find a way for @creenv/catpure and @creenv/audio to communicate~~ *05/11/2018*
 * **capture + audio** - bugfix offline analysis not the same values as online analysis
-* **creenv-capture** - sequence jpeg 
+* ~~**creenv-capture** - sequence jpeg~~ *06/11/2018*
 * **creenv-capture** - add sound to capture
 * **creenv-audio** - peak detection bug on capture mode
 * **creenv-audio** - add offset to start playing
