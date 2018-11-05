@@ -17,7 +17,8 @@
 * **music-input-interface** - an interface to load music from different inputs, customizable (use react), resolves when loading is done
 * **boilerplate for music** - create a boiletplate that showcases creenv sound analysis tools (embed music visualization starter helper?)
 * **boilerplate for music, light** - a more lightweight, with less config and explanations
-* **capture + audio** - find a way for @creenv/catpure and @creenv/audio to communicate
+* ~~**capture + audio** - find a way for @creenv/catpure and @creenv/audio to communicate~~ *05/11/2018*
+* **capture + audio** - bugfix offline analysis not the same values as online analysis
 * **creenv-capture** - sequence jpeg 
 * **creenv-capture** - add sound to capture
 * **creenv-audio** - peak detection bug on capture mode
