@@ -21,5 +21,5 @@
 * **capture + audio** - bugfix offline analysis not the same values as online analysis
 * ~~**creenv-capture** - sequence jpeg~~ *06/11/2018*
 * **creenv-capture** - add sound to capture
-* **creenv-audio** - peak detection bug on capture mode
+* **creenv-audio** - peak detection bug on capture mode FOUND BUG - energy average 128 on rest
 * **creenv-audio** - add offset to start playing
