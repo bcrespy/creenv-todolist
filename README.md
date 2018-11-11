@@ -18,9 +18,9 @@
 * **boilerplate for music** - create a boiletplate that showcases creenv sound analysis tools (embed music visualization starter helper?)
 * **boilerplate for music, light** - a more lightweight, with less config and explanations
 * ~~**capture + audio** - find a way for @creenv/catpure and @creenv/audio to communicate~~ *05/11/2018*
-* **capture + audio** - bugfix offline analysis not the same values as online analysis
+* ~~**capture + audio** - bugfix offline analysis not the same values as online analysis~~ *09/11/2018*
 * ~~**creenv-capture** - sequence jpeg~~ *06/11/2018*
-* **creenv-capture** - add sound to capture
+* ~~**creenv-capture** - add sound to capture~~ *09/11/2018*
 * ~~**creenv-audio** - peak detection bug on capture mode FOUND BUG - energy average 128 on rest~~ *09/11/2018*
 * **creenv-audio** - add offset to start playing
 * **creenv-capture** - fix bug progress bar when saving (0-20% then 10%-80% then instant 100% when 0-100% is expected)
