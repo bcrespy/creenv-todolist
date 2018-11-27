@@ -24,3 +24,4 @@
 * ~~**creenv-audio** - peak detection bug on capture mode FOUND BUG - energy average 128 on rest~~ *09/11/2018*
 * **creenv-audio** - add offset to start playing
 * ~~**creenv-capture** - fix bug progress bar when saving (0-20% then 10%-80% then instant 100% when 0-100% is expected)~~ *12/11/2018*
+* **creenv-midi** - find a way to get the state of the controls when app is starting
